@@ -76,3 +76,40 @@ h2 {
   font-family: Montserrat_semi_bold;
   margin: 0px;
 }
+
+h3 {
+  color: rgba(0,217,155,1);
+  font-family: Montserrat_semi_bold;
+  margin: 5px 0px;
+}
+
+h4 {
+  font-family: Montserrat_semi_bold;
+  margin: 5px 0px;
+}
+
+.impressum {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.impressum_content {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+.impressum_image {
+  width: 
+}
+
+.p-5 {
+  padding: 5px;
+}
+
+.p-10 {
+  padding: 10px;
+}
